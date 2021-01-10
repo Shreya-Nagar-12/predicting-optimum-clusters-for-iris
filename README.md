@@ -1,4 +1,4 @@
-# predicting_optimum_clusters_for_iris_dataset
+# predicting optimum number of clusters for iris dataset
 
 - Algorithm used: Kmeans
 - Cluster visualization using matplotlib
